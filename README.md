@@ -1,5 +1,5 @@
 
-# Walmart Sales Analysis SQL Project
+## Walmart Sales Analysis SQL Project
 This project involves analyzing sales data from Walmart to derive insights that can help improve business decision-making processes. The analysis was conducted using SQL queries to answer various business questions related to sales transactions, product performance, customer behavior, and overall profitability.
 
 # Objectives
