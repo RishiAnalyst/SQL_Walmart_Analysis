@@ -62,14 +62,19 @@ Understanding which transactions are above average in total helps in identifying
 11. Calculate the cumulative gross income for each branch by date.
 
 Tracking cumulative gross income provides a running total of profitability by branch, useful for performance tracking.
+
 12. Find the total COGS (Cost of Goods Sold) for each customer type in each city.
 
 Analyzing the cost of goods sold helps in understanding the profitability of different customer segments in various locations.
+
 # Conclusion
 The insights derived from these queries can help Walmart optimize its sales strategies, improve customer satisfaction, and increase overall profitability. This project demonstrates the power of SQL in extracting valuable information from large datasets and making data-driven decisions.
 
 
 # Repository Structure
+
 /queries: Contains SQL scripts for each business question.
+
 /data: Includes sample datasets for analysis.
+
 README.md: Project overview and instructions.
